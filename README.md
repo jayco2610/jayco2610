@@ -24,4 +24,4 @@ Building AI systems for real tasks and showing the process publicly at [@pmvisio
 
 ## Links
 
-[Portfolio](https://jasur-portfolio-pied.vercel.app) · [LinkedIn](https://linkedin.com/in/jasur-akhmadaliev) · [Telegram](https://t.me/pmvision_ai) · [Email](mailto:jasurakhmadaliev283@gmail.com)
+[Portfolio](https://jasur-portfolio-pied.vercel.app) · [Resume](https://jasur-portfolio-pied.vercel.app/resume) · [LinkedIn](https://linkedin.com/in/jasur-akhmadaliev) · [Telegram](https://t.me/pmvision_ai) · [Email](mailto:jasurakhmadaliev283@gmail.com)
