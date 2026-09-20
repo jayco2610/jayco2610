@@ -1,27 +1,10 @@
-# Jasur Akhmadaliev · AI Product Manager
+### Jasur Akhmadaliev
 
-Product Manager who ships digital products hands-on — from customer discovery to live users.  
-Building AI systems for real tasks and showing the process publicly at [@pmvision_ai](https://t.me/pmvision_ai).
+Product Manager who ships AI products solo — from customer discovery to a live URL — and then brings in their first users myself.
 
----
+**Live right now**
+- [abcx](https://abcx-eight.vercel.app) — upload a sales export, find the patterns behind the numbers
+- [Portfolio + JasurGPT](https://jasur-portfolio-pied.vercel.app/?from=gh) — an AI chat trained on my full project history
+- [Expat Roadmap SEA](https://expat-roadmap-sea.vercel.app) — relocation platform for Southeast Asia
 
-## Projects
-
-| Project | Stack | Status |
-|---|---|---|
-| [AI Career System](https://jasur-portfolio-pied.vercel.app) | Claude · n8n · Google Sheets · Telegram | Live |
-| [Expat Roadmap SEA](https://expat-roadmap-sea.vercel.app) | Next.js · Supabase · Vercel | Live |
-| [Portfolio + JasurGPT](https://jasur-portfolio-pied.vercel.app) | Next.js · OpenRouter · Vercel | Live |
-| RAG Starter | Gemini API · Ollama · LangChain | In progress |
-
----
-
-## Stack
-
-`Claude API` `n8n` `Voiceflow` `Whisper` `Cursor` `Next.js` `Supabase` `Telegram Bot API` `Prompt Engineering`
-
----
-
-## Links
-
-[Portfolio](https://jasur-portfolio-pied.vercel.app) · [Resume](https://jasur-portfolio-pied.vercel.app/resume) · [LinkedIn](https://linkedin.com/in/jasur-akhmadaliev) · [Telegram](https://t.me/pmvision_ai) · [Email](mailto:jasurakhmadaliev283@gmail.com)
+**Writing:** blog in the Top 3 on VC.ru · Telegram [@head_of_ceo](https://t.me/head_of_ceo)
